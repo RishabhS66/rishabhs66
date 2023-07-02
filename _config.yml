@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rishbabh Srivastava"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Rishabh Srivastava"
-description              : &description "SDE 2 at Adobe India"
-url                      : https://rishabhs66.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rishabhs66.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -21,7 +21,7 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default)
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            :
   discourse:
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Rishabh Srivastava"
   avatar           : "profile.png"
-  bio              : "SDE 2 at Adobe India"
+  bio              : "SDE 2 at Adobe"
   location         : "Noida, India"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "rishabhs-iitg"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -200,7 +200,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: False # make it true if you want to enable share on FB, Twitter, etc. button
+      share: true
       related: true
   # _pages
   - scope:
@@ -216,7 +216,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: False # make it true if you want to enable share on FB, Twitter, etc. button
+      share: true
       comments: true
   # _publications
   - scope:
@@ -225,7 +225,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: False # make it true if you want to enable share on FB, Twitter, etc. button
+      share: true
       comments: true
   # _portfolio
   - scope:
@@ -234,7 +234,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: False # make it true if you want to enable share on FB, Twitter, etc. button
+      share: true
       comment: true
   # _talks
   - scope:
@@ -243,7 +243,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: False # make it true if you want to enable share on FB, Twitter, etc. button
+      share: true
 
 # Sass/SCSS
 sass:
