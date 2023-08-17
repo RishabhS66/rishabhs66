@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="/files/Resume_July_2023.pdf" type="application/pdf" width="1000" height="1000" />
+<embed src="/files/Resume.pdf" type="application/pdf" width="1000" height="1000" title="Rishabh Srivastava's CV" />

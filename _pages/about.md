@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Software Development Engineer 2 at [Adobe India](https://www.adobe.com/in/). I am associated with the Digital Experience unit at Adobe, specifically working on the product [Adobe Experience Manager - Assets](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/overview.html).
+I am an incoming Master's student at Columbia Engineering. My primary interests lie in Machine Learning, Computer Vision, and recently, NLP.
 
-I completed my B.Tech. in Electronics & Electrical Engineering with a Minor in Computer Science and Engineering from the [Indian Institute of Technology Guwahati](https://iitg.ac.in/) in 2021.
+I completed my B.Tech. in Electronics & Electrical Engineering with a Minor in Computer Science and Engineering from the [Indian Institute of Technology Guwahati](https://iitg.ac.in/) in 2021. During my days at IITG, I strengthened my fundamentals for Machine Learning and took some other interesting courses on Game Theory and Quantum Computing.
+
+In Summer '19, I got the chance to research at Hanyang University in the field of fuzzy clustering. The next summer, I combined research and industry by interning at [Adobe's Media and Data Science Research Lab](https://research.adobe.com/), where I explored Reinforcement Learning algorithms for Sequential Pattern Mining.
+
+Before Columbia, I worked at [Adobe India](https://www.adobe.com/in/) in the [Adobe Experience Manager - Assets](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/overview.html) team. Here, I learned what being a Software Engineer means, and further cemented my understanding of how research is combined with industry demands to best cater to the customers' needs.
+
+I love writing new code and am currently open to internship opportunities for Summer '24!
