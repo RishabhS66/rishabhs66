@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Master's student in Computer Science at [Columbia University](https://www.columbia.edu/). My primary interests lie in Machine Learning, Computer Vision, and recently, NLP.
+I am a Master's student in Computer Science at [Columbia University](https://www.columbia.edu/). My primary interests lie in Machine Learning, Computer Vision, and recently, NLP.
 
 I completed my B.Tech. in Electronics & Electrical Engineering with a Minor in Computer Science and Engineering from the [Indian Institute of Technology Guwahati](https://iitg.ac.in/) in 2021. During my days at IITG, I strengthened my fundamentals for Machine Learning and took some other interesting courses on Game Theory and Quantum Computing.
 
