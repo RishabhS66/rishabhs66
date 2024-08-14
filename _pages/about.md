@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student in Computer Science at [Columbia University](https://www.columbia.edu/). My primary interests lie in Machine Learning, Computer Vision, and recently, NLP.
+**Hello there! 👋 I’m Rishabh Srivastava.**
 
-I completed my B.Tech. in Electronics & Electrical Engineering with a Minor in Computer Science and Engineering from the [Indian Institute of Technology Guwahati](https://iitg.ac.in/) in 2021. During my days at IITG, I strengthened my fundamentals for Machine Learning and took some other interesting courses on Game Theory and Quantum Computing.
+Currently on a mission at [Columbia University](https://www.columbia.edu/), where I'm deep-diving into the world of Machine Learning, Computer Vision, and NLP as a Master's student in Computer Science. You could say I’m a tech enthusiast with a relentless curiosity for all things AI.
 
-In Summer '19, I got the chance to research at [Hanyang University](https://www.hanyang.ac.kr/web/eng/home) in the field of fuzzy clustering. The next summer, I combined research and industry by interning at [Adobe's Media and Data Science Research Lab](https://research.adobe.com/), where I explored Reinforcement Learning algorithms for Sequential Pattern Mining.
+My journey in tech has been nothing short of an adventure! I’ve had the pleasure of working at [Adobe](https://www.adobe.com/in/), where I got to play around with AI models and enhance digital asset management systems. Now, as a Software Engineer Intern at [Rubicon Robotics](https://rubiconrobotics.com/), I’m making waves—literally—by implementing computer vision algorithms for swimmer detection and posture analysis. You can also find me at Columbia’s [ARISE Lab](https://www.rayb.info/ariselab) sometimes, fine-tuning code LLMs to be smarter and more semantic-aware.
 
-Before Columbia, I worked at [Adobe India](https://www.adobe.com/in/) in the [Adobe Experience Manager - Assets](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/overview.html) team. Here, I learned what being a Software Engineer means, and further cemented my understanding of how research is combined with industry demands to best cater to the customers' needs.
+As I gear up to graduate in December 2024, I’m excited about the future and eager to take on full-time opportunities where I can bring my passion and skills to make a real impact.
 
-I love writing new code and am currently open to internship opportunities for Summer '24!
+Let’s connect and create something amazing together!

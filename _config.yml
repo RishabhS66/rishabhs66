@@ -11,7 +11,7 @@ title                    : "Rishabh Srivastava"
 title_separator          : "-"
 name                     : &name "Rishabh Srivastava"
 description              : &description "MS CS at Columbia University"
-url                      : https://rishabhs66.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "" #https://rishabhs66.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rishabhs66/rishabhs66.github.io"
 google_analytics         : G-S3LGT2E9EC
