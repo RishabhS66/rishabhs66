@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-**Hello there! 👋 I’m Rishabh Srivastava.**
+**Hello there! 👋 I'm Rishabh Srivastava.**
 
-Currently on a mission at [Columbia University](https://www.columbia.edu/), where I'm deep-diving into the world of Machine Learning, Computer Vision, and NLP as a Master's student in Computer Science. You could say I’m a tech enthusiast with a relentless curiosity for all things AI.
+Fresh out of [Columbia University](https://www.columbia.edu/) with an MS in Computer Science (Machine Learning track), I'm passionate about transforming cutting-edge research into real-world AI solutions.
 
-My journey in tech has been nothing short of an adventure! I’ve had the pleasure of working at [Adobe](https://www.adobe.com/in/), where I got to play around with AI models and enhance digital asset management systems. Now, as a Software Engineer Intern at [Rubicon Robotics](https://rubiconrobotics.com/), I’m making waves - literally - by implementing computer vision algorithms for swimmer detection and posture analysis. You can also find me at Columbia’s [ARISE Lab](https://www.rayb.info/ariselab) sometimes, fine-tuning code LLMs to be smarter and more semantic-aware.
+I've built smart tech at [Rubicon Robotics](https://rubiconrobotics.com/), crafting computer vision algorithms that dive deep—literally—into swimmer detection and posture analysis, while scaling backend infrastructure on the cloud. At [Adobe](https://www.adobe.com/in/), I redefined digital asset search using AI-driven captioning and search optimization, even supercharging GenAI integrations with Adobe Firefly.
 
-As I gear up to graduate in December 2024, I’m excited about the future and eager to take on full-time opportunities where I can bring my passion and skills to make a real impact.
+In the research realm, I built AI-CNet3D, a cross-attention 3D CNN that dramatically improved glaucoma detection using OCT volumes at [AI4VS Lab](https://www.ai4vslab.org/). I also advanced Vision Transformers for Age-related Macular Degeneration detection, integrating attention-alignment with expert gaze patterns for enhanced interpretability. Meanwhile, at [ARISE Lab](https://www.rayb.info/ariselab) Lab, I fine-tuned SemCoder-S, a semantic-aware code LLM outperforming peers on execution prediction — pushing the boundaries of what AI can understand about code correctness.
 
-Let’s connect and create something amazing together!
+I'm passionate about creating scalable, innovative AI solutions and am actively seeking full-time opportunities where I can contribute my expertise in backend engineering, machine learning infrastructure, and AI-driven applications. Let's connect and build impactful technology together!
